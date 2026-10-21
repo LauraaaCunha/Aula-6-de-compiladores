@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/aula6.dir/link.d CMakeFiles/aula6.dir/aula6.cpp.o CMakeFiles/aula6.dir/lexer.cpp.o CMakeFiles/aula6.dir/parser.cpp.o -o aula6

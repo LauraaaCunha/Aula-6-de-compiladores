@@ -1,0 +1,3 @@
+/home/gabriel/Documentos/Aulas_IFRS/Disciplinas/Compiladores/Aulas/Praticas/Aula06/Aula06/Debug/CMakeFiles/aula6.dir
+/home/gabriel/Documentos/Aulas_IFRS/Disciplinas/Compiladores/Aulas/Praticas/Aula06/Aula06/Debug/CMakeFiles/edit_cache.dir
+/home/gabriel/Documentos/Aulas_IFRS/Disciplinas/Compiladores/Aulas/Praticas/Aula06/Aula06/Debug/CMakeFiles/rebuild_cache.dir
